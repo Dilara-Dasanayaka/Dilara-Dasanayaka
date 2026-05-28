@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋 I'm Dilara Dasanayaka
 
-<!--
-**Dilara-Dasanayaka/Dilara-Dasanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th Year BSc Honours in Statistics undergraduate passionate about Data Science, Statistical Analysis, and Machine Learning.
 
-Here are some ideas to get you started:
+📊 I enjoy working with data, identifying patterns, and applying statistical and computational techniques to solve real-world problems through research and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’ve worked on projects involving:
+
+* 📌 Online Support Service Systems
+* 💄 Beauty Parlour Management Systems
+* 🤖 Machine Learning concepts such as KNN, AdaBoost & Gradient Boosting
+* 📈 Regression Analysis, Optimization & Statistical Modeling
+
+💡 I’m continuously learning and improving my skills through academic projects, research, and hands-on experience in analytics and computing.
+
+---
+
+## 💻 What I'm into
+
+📊 Data Analysis & Visualization
+🤖 Machine Learning & Predictive Modeling
+📈 Regression Analysis & Optimization
+🧠 Statistical Computing & Research
+🌐 Web Application Development
+📚 Learning and exploring new technologies
+
+---
+
+## 🛠️ Technologies & Tools
+
+💻 HTML | CSS | JavaScript
+🐘 PHP | MySQL
+📊 Excel | Power BI
+📈 R Programming
+🧠 Machine Learning Concepts
+
+---
+
+## 🌱 Currently Learning
+
+📌 Advanced Machine Learning Techniques
+📌 Data Visualization & Analytics
+📌 Statistical Modeling & Research
+📌 Computational Analysis
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m always excited to learn, collaborate, and work on projects related to:
+
+* Data Science & Machine Learning
+* Statistics & Research
+* Web Development
+* Data Analytics
+
+Feel free to explore my repositories and connect with me!

@@ -8,6 +8,8 @@
 
 * 📌 Online Support Service Systems
 * 💄 Beauty Parlour Management Systems
+* 🏥 Medical Insurance Cost Prediction using Machine Learning
+* 🎧 Podcast User Engagement Analysis
 * 🤖 Machine Learning concepts such as KNN, AdaBoost & Gradient Boosting
 * 📈 Regression Analysis, Optimization & Statistical Modeling
 
